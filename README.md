@@ -47,7 +47,7 @@ First make sure you're in the Admin Panel.</p>
 <br />
 
 <p>
-We want to click on Agents > Roles > add new role.
+We want to click on Agents > Roles > Add New Role.
 </p>
 <p>
 <img src="https://i.imgur.com/NnpxLCH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

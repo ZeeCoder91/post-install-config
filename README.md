@@ -55,18 +55,16 @@ We want to click on Agents > Roles > Add New Role.
 <br />
 
 <p>
-<img src="https://i.imgur.com/C7J6g8j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Enter Supreme Admin into the name field > Click on Permissions > Tickets.</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/C7J6g8j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/2IfIWgO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+We will check all of the permission boxes for the Supreme Admin role, so that they have full access.</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/2IfIWgO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -74,16 +72,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/058QTsk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+From Tickets > Tasks check all of the boxes.</p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/jNqtmL7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+From Tickets > Tasks > Knowledgebase check all of the boxes </p>
 <br />
 
 <p>

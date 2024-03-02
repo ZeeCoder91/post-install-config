@@ -33,13 +33,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+We are going to create a role called Supreme Admin. Roles are the permissions granted to Agents per Department that they have access to.
 <p>
 <img src="https://i.imgur.com/lhuRBrG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-First make sure your in the Agent Panel</p>
+First make sure you're in the Admin Panel.</p>
 <p>
 <img src="https://i.imgur.com/89Ws8i4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -49,7 +50,7 @@ First make sure your in the Agent Panel</p>
 <img src="https://i.imgur.com/NnpxLCH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We wante to click on Agents > Roles
 </p>
 <br />
 

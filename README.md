@@ -90,10 +90,10 @@ We see our new role was successfully added to the panel.</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/cjiPJOO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Next we'll add a new department. Click on Agents > Departments> Add New Department.
 </p>
 <p>
-Next we add a new department. Click on Agents > Departments> Add New Department.
+<img src="https://i.imgur.com/cjiPJOO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 

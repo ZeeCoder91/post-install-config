@@ -47,10 +47,10 @@ First make sure you're in the Admin Panel.</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/NnpxLCH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+We want to click on Agents > Roles > add new role.
 </p>
 <p>
-We wante to click on Agents > Roles
+<img src="https://i.imgur.com/NnpxLCH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 

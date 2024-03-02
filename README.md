@@ -55,7 +55,7 @@ We want to click on Agents > Roles > Add New Role.
 <br />
 
 <p>
-Enter Supreme Admin into the name field > Click on Permissions > Tickets.</p>
+Enter Supreme Admin into the name field > Click on Permissions.</p>
 <p>
 <img src="https://i.imgur.com/C7J6g8j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -69,17 +69,17 @@ We will check all of the permission boxes for the Supreme Admin role, so that th
 <br />
 
 <p>
+From Tickets > Tasks check all of the boxes.</p>
+<p>
 <img src="https://i.imgur.com/058QTsk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-From Tickets > Tasks check all of the boxes.</p>
 <br />
 
 <p>
+From Tickets > Tasks > Knowledgebase check all of the boxes </p>
+<p>
 <img src="https://i.imgur.com/jNqtmL7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-From Tickets > Tasks > Knowledgebase check all of the boxes </p>
 <br />
 
 <p>

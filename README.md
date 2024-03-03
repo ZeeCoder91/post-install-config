@@ -238,18 +238,18 @@ SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of
 </p>
 <br />
 
-<p>We have created 3 SLA's of various severity and response times. 
+<p>
+We have created 3 SLA's of various severity and response times. 
 </p>
 <p>
 <img src="https://i.imgur.com/pIH3ULS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/4FXCmkp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Next, we'll configure the help topics. In the Admin Panel go to Manage > Add New Help Topic.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/4FXCmkp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 

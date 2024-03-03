@@ -113,7 +113,7 @@ A new department was added called System Adminstrators.</p>
 <br />
 
 <p>
-Teams will allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.
+Teams will allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter. Go to Agents > Team > Add New Team
 </p>
 <p>
 <img src="https://i.imgur.com/cXAdRac.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -121,10 +121,9 @@ Teams will allow you to pull Agents from different Departments and organize them
 <br />
 
 <p>
-<img src="https://i.imgur.com/I1zQPbB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Fill out the appropriate information. Then you will be able to add Agents to the team by clicking on their name from the list of Agents and checking the corresponding box next to the Team name you wish to add them at the bottom of the page.</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/I1zQPbB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 

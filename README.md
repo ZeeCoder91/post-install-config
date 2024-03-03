@@ -211,10 +211,10 @@ Users can create an account and login to create tickets or to check on it's stat
 <br />
 
 <p>
+This is our new user successful added to the user directory.</p>
+<p>
 <img src="https://i.imgur.com/5zjSeyX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-This is our new user successful added to the user directory.</p>
 <br />
 
 <p>

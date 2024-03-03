@@ -224,7 +224,7 @@ Now it's time to configure the SLA or Service Level Agreement:</p>
 </p>
 <br />
 
-<p> Click Manage > Add New SLA
+<p> Click Admin Panel > Manage > Add New SLA Plan
 </p>
 <p>
 <img src="https://i.imgur.com/Fuwxibl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -232,18 +232,16 @@ Now it's time to configure the SLA or Service Level Agreement:</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/3P4jOEu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/3P4jOEu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/pIH3ULS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>We will create 3 SLA's of various severity and response times. 
 </p>
 <br />
 

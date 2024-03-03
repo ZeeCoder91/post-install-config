@@ -142,10 +142,10 @@ Now, we will allow anyone to create tickets by clicking on Settings > Users</p>
 <br />
 
 <p>
+We want to make sure 'Require registration and login to create tickets' is unchecked.</p>
+<p>
 <img src="https://i.imgur.com/xtczToC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-We want to make sure 'Require registration and login to create tickets' is unchecked.</p>
 <br />
 
 <p>

@@ -211,7 +211,7 @@ We'll now create some users for our user directory. Users can create an account 
 <br />
 
 <p>
-This is our new user successful added to the user directory.</p>
+This is our new user successfully added to the user directory.</p>
 <p>
 <img src="https://i.imgur.com/5zjSeyX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

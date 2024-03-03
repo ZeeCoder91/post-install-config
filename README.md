@@ -149,14 +149,14 @@ We want to make sure 'Require registration and login to create tickets' is unche
 <br />
 
 <p>
-Now, we'll create our agents who are given access to the help desk with the intent to respond and resolve tickets. Click on Agents > Add New Agent</p>
+Now, we'll create our agents who are given access to the help desk with the intent to respond and resolve tickets.</p>
 </p>
 <p>
 <img src="https://i.imgur.com/yCoKXqL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>
+<p>Click on Agents > Add New Agent
 </p>
 <p>
 <img src="https://i.imgur.com/nORAqaN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

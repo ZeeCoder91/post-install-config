@@ -199,7 +199,7 @@ We also created another agent named John Doe.</p>
 <br />
 
 <p>
-Users can create an account and login to create tickets or to check on it's status. We'll now create some users for our user directory.</p>
+We'll now create some users for our user directory. Users can create an account and login to create tickets or to check on it's status.</p>
 <p>
 <img src="https://i.imgur.com/PhHCtqh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -221,8 +221,7 @@ This is our new user successful added to the user directory.</p>
 <img src="https://i.imgur.com/T2d02Kp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Configure the SLA or Service Level Agreement:</p>
 <br />
 
 <p>

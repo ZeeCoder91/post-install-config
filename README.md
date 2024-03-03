@@ -164,8 +164,7 @@ Now, we'll create our agents who are given access to the help desk with the inte
 <br />
 
 <p>
-Now, we'll create our agents who are given access to the help desk with the intent to respond and resolve tickets.</p>
-<p>
+Let's create an angent named "Jane Doe" and set the password.<p>
 <img src="https://i.imgur.com/IDGIqAB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />

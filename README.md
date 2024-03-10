@@ -39,57 +39,56 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-First make sure you're in the Admin Panel.</p>
+Ensure you are in the Admin Panel, where you can access essential configuration and management settings.</p>
 <p>
 <img src="https://i.imgur.com/89Ws8i4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-We want to click on Agents > Roles > Add New Role.
-</p>
+Navigate to 'Agents' > 'Roles' > 'Add New Role' to proceed.</p>
 <p>
 <img src="https://i.imgur.com/NnpxLCH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Enter Supreme Admin into the name field > Click on Permissions.</p>
+Type 'Supreme Admin' into the name field, then click on 'Permissions.</p>
 <p>
 <img src="https://i.imgur.com/C7J6g8j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-We will check all of the permission boxes for the Supreme Admin role, so that they have full access.</p>
+Select all permission boxes for the 'Supreme Admin' role to grant full access.</p>
 <p>
 <img src="https://i.imgur.com/2IfIWgO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-From Tickets > Tasks check all of the boxes.</p>
+Under 'Tickets' > 'Tasks', check all boxes to enable complete access.</p>
 <p>
 <img src="https://i.imgur.com/058QTsk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-From Tickets > Tasks > Knowledgebase check all of the boxes </p>
+In the 'Tickets' > 'Tasks' > 'Knowledgebase' section, ensure all boxes are checked for full privileges.</p>
 <p>
 <img src="https://i.imgur.com/jNqtmL7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-We see our new role was successfully added to the panel.</p>
+Confirm that the new role has been successfully added to the panel.</p>
 <p>
 <img src="https://i.imgur.com/0elZtnW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Next we'll add a new department. Click on Agents > Departments> Add New Department.
+To add a new department, navigate to 'Agents' > 'Departments' > 'Add New Department'.
 </p>
 <p>
 <img src="https://i.imgur.com/cjiPJOO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -97,7 +96,7 @@ Next we'll add a new department. Click on Agents > Departments> Add New Departme
 <br />
 
 <p>
-Since tickets are routed through Departments in the help desk, there are many settings that can be set for each Department.
+Tickets are directed through various departments within the help desk, each of which can be customized with its own set of settings
 </p>
 <p>
 <img src="https://i.imgur.com/jj8Dfub.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -105,15 +104,14 @@ Since tickets are routed through Departments in the help desk, there are many se
 <br />
 
 <p>
-A new department was added called System Adminstrators.</p>
+A new department named 'System Administrators' has been added.</p>
 <p>
 <img src="https://i.imgur.com/HirGRt3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Teams will allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter. Go to Agents > Team > Add New Team
-</p>
+Teams enable grouping of Agents from various Departments to address specific issues or users, organized through Help Topics or Ticket Filters. Navigate to 'Agents' > 'Teams' > 'Add New Team' to create one.</p>
 <p>
 <img src="https://i.imgur.com/cXAdRac.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

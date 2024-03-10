@@ -118,14 +118,14 @@ Teams enable grouping of Agents from various Departments to address specific iss
 <br />
 
 <p>
-Fill out the appropriate information.</p>
+Enter the necessary details for the team.</p>
 <p>
 <img src="https://i.imgur.com/I1zQPbB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Then you will be able to add Agents to the team by clicking on their name from the list of Agents and checking the corresponding box next to the Team name you wish to add them at the bottom of the page.</p>
+To add Agents to the team, click on their names from the Agent list and check the box next to the team name at the bottom of the page.</p>
 <p>
 <img src="https://i.imgur.com/YhNNTkm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

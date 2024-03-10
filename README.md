@@ -96,7 +96,7 @@ To add a new department, navigate to 'Agents' > 'Departments' > 'Add New Departm
 <br />
 
 <p>
-Tickets are directed through various departments within the help desk, each of which can be customized with its own set of settings
+Tickets are directed through various departments within the help desk, each of which can be customized with its own set of settings.
 </p>
 <p>
 <img src="https://i.imgur.com/jj8Dfub.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -132,7 +132,7 @@ To add Agents to the team, click on their names from the Agent list and click on
 <br />
 
 <p>
-Enable ticket creation by anyone by going to 'Settings' > 'Users'</p>
+Enable ticket creation by anyone by going to 'Settings' > 'Users'.</p>
 <p>
 <img src="https://i.imgur.com/NLJkcDB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -178,7 +178,7 @@ Assign department and role access to agents as needed.</p>
 <br />
 
 <p>
-We can also assign the agent to a team that was previously created</p>
+We can also assign the agent to a team that was previously created.</p>
 <img src="https://i.imgur.com/PQnuiAN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
@@ -208,20 +208,20 @@ Another agent named John Doe was also created.</p>
 <br />
 
 <p>
-This is our new user successfully added to the user directory.</p>
+Verify that the new user, Karen Kim, has been added to the user directory.</p>
 <p>
 <img src="https://i.imgur.com/5zjSeyX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Now it's time to configure the SLA or Service Level Agreement:</p>
+Now, let's proceed to set up the Service Level Agreement (SLA).</p>
 <p>
 <img src="https://i.imgur.com/T2d02Kp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p> Click Admin Panel > Manage > Add New SLA Plan
+<p> Navigate to 'Admin Panel' > 'Manage' > 'SLA Plans' and select 'Add New SLA Plan'.
 </p>
 <p>
 <img src="https://i.imgur.com/Fuwxibl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -229,21 +229,21 @@ Now it's time to configure the SLA or Service Level Agreement:</p>
 <br />
 
 <p>
-SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.</p>
+In osTicket, you can create unlimited SLA Plans. These plans define the expected timeframe for resolving tickets, as set by the help desk administrator.</p>
 <p>
 <img src="https://i.imgur.com/3P4jOEu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-We have created 3 SLA's of various severity and response times. 
+We've established three SLA plans, each with different severity levels and response times. 
 </p>
 <p>
 <img src="https://i.imgur.com/pIH3ULS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>Next, we'll configure the help topics. In the Admin Panel go to Manage > Add New Help Topic.
+<p>Next, let's set up the help topics. Navigate to Manage > Help Topics in the Admin Panel and select 'Add New Help Topic'.
 </p>
 <p>
 <img src="https://i.imgur.com/4FXCmkp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

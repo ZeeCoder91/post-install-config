@@ -125,7 +125,7 @@ Enter the necessary details for the team.</p>
 <br />
 
 <p>
-To add Agents to the team, click on their names from the Agent list and check the box next to the team name at the bottom of the page.</p>
+To add Agents to the team, click on their names from the Agent list and then click on 'Create Team'.</p>
 <p>
 <img src="https://i.imgur.com/YhNNTkm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

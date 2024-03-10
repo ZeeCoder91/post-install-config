@@ -250,6 +250,7 @@ We've established three SLA plans, each with different severity levels and respo
 </p>
 <br />
 
+<p>For this exercise, let's create four additional help topics: Business Critical Outage, Personal, Computer Issues, Equipment Request, and Password Reset.</p>
 <p>
 <img src="https://i.imgur.com/NJkC8wN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

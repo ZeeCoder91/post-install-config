@@ -125,35 +125,35 @@ Enter the necessary details for the team.</p>
 <br />
 
 <p>
-To add Agents to the team, click on their names from the Agent list and then click on 'Create Team'.</p>
+To add Agents to the team, click on their names from the Agent list and click on 'Create Team'.</p>
 <p>
 <img src="https://i.imgur.com/YhNNTkm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Now, we will allow anyone to create tickets by clicking on Settings > Users</p>
+Enable ticket creation by anyone by going to 'Settings' > 'Users'</p>
 <p>
 <img src="https://i.imgur.com/NLJkcDB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-We want to make sure 'Require registration and login to create tickets' is unchecked.</p>
+Ensure the option 'Require registration and login to create tickets' is unchecked.</p>
 <p>
 <img src="https://i.imgur.com/xtczToC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Now, we'll create our agents who are given access to the help desk with the intent to respond and resolve tickets.</p>
+Next, we'll set up agents with access to the help desk, tasked with responding to and resolving tickets.</p>
 </p>
 <p>
 <img src="https://i.imgur.com/yCoKXqL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>Click on Agents > Add New Agent
+<p>Navigate to 'Agents' > 'Add New Agent' to proceed.
 </p>
 <p>
 <img src="https://i.imgur.com/nORAqaN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -161,7 +161,7 @@ Now, we'll create our agents who are given access to the help desk with the inte
 <br />
 
 <p>
-Let's create an agent named "Jane Doe" and set the password.<p>
+Create an agent named 'Jane Doe' and establish a password for her account.<p>
 <img src="https://i.imgur.com/IDGIqAB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
@@ -171,14 +171,14 @@ Let's create an agent named "Jane Doe" and set the password.<p>
 <br />
 
 <p>
-We can assign access to agents by department and role.</p>
+Assign department and role access to agents as needed.</p>
 <p>
 <img src="https://i.imgur.com/EeIzwD5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-We can also assign the agent to a team that we created earlier.</p>
+We can also assign the agent to a team that was previously created</p>
 <img src="https://i.imgur.com/PQnuiAN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
@@ -189,14 +189,14 @@ We can also assign the agent to a team that we created earlier.</p>
 <br />
 
 <p>
-We also created another agent named John Doe.</p>
+Another agent named John Doe was also created.</p>
 <p>
 <img src="https://i.imgur.com/HsxSEOF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-We'll now create some users for our user directory. Users can create an account and login to create tickets or to check on it's status.</p>
+"Next, we'll add users to our directory. Users can register an account to submit tickets and monitor their status.</p>
 <p>
 <img src="https://i.imgur.com/PhHCtqh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

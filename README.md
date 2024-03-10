@@ -262,6 +262,7 @@ We've established three SLA plans, each with different severity levels and respo
 </p>
 <br />
 
+<p>As we conclude this lab, we've laid the groundwork for our support system. In the upcoming lab, we'll delve into creating, triaging, and resolving tickets, applying what we've built so far.</p>
 <p>
 <img src="https://i.imgur.com/UDawVdl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>

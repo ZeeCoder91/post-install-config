@@ -33,8 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-We are going to create a role called Supreme Admin. Roles are the permissions granted to Agents per Department that they have access to.
-<p>
+<p>First, we'll create a role named 'Supreme Admin.' In osTicket, roles define the permissions assigned to Agents, determining their access level within each Department they are part of. This foundational step ensures structured access control from the outset.</p>
 <img src="https://i.imgur.com/lhuRBrG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
